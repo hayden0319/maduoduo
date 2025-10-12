@@ -1,0 +1,1 @@
+import{b as o}from"./BgewwvAi.js";function n(){const e=o([]);return{files:e,addFile:l=>{e.value=[...e.value,l]},removeFile:l=>{e.value=e.value.filter(i=>i.id!==l.id)},clear:()=>{e.value=[]}}}export{n as useSessionFiles};
