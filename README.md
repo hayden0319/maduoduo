@@ -204,7 +204,6 @@ docker compose up -d
 
 ## 社区与支持
 - **Bug 反馈 & 功能建议**：请通过 GitHub Issues 提交，尽量附上日志与复现步骤。
-- **安全问题**：请发送邮件至 `security@maduoduo.com`（临时邮箱），我们将在 48 小时内响应。
 - **交流渠道**：正在筹备 Discord/微信群，敬请关注后续公告。
 
 ---
